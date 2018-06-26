@@ -1,1 +1,1 @@
-# ML_algorithms_from_scratch
+# ML_algorithms
