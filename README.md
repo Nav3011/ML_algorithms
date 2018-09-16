@@ -1,1 +1,1 @@
-# ML_algorithms
+# Machine Learning algorithms
